@@ -2,7 +2,7 @@
 
 # Decode React Poll Challenge
 
-At [Decode](https://usedecode.com), we use React for all of our front-end work and you'll be expected to take design specifications and mockups and turn them into working applications.
+We use React for all of our front-end work and you'll be expected to take design specifications and mockups and turn them into working applications.
 
 Below, we'll specify the challenge, describe the functionality, and give you tips and constraints along the way.
 
