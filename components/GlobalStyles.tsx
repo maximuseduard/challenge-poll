@@ -23,4 +23,22 @@ export default createGlobalStyle`
     padding: 1em;
     color: #030C30;
   }
+
+  
+  @-webkit-keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
 `;
